@@ -6,9 +6,9 @@ const { authorized } = require('../middlewares/is_auth');
 router
     .get("/", Blog.home)
 
-    .get('/myarticles', authorized, Blog.My_articles)
+    .get("/blog/:id", Blog.single_article)
 
-    .get("/blog/:id", authorized, Blog.single_article)
+    .get('/myarticles', authorized, Blog.My_articles)
 
     .post("/blog", authorized, Blog.new_article)
 

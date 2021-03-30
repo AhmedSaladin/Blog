@@ -13,7 +13,7 @@ module.exports = {
             });
             if (!list.length) {
                 res.status(200);
-                res.send('List is empty');
+                res.send([]);
             } else {
                 const view = await list_view(list);
                 res.status(200);

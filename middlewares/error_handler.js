@@ -6,7 +6,7 @@ module.exports = (err, req, res, next) => {
     if (joi == 'ValidationError') {
         res.status(400).send(err.toString());
     } else {
-        res.status(501);
+        res.status(500);
         res.send('Some problem has been occurs have a nice day.');
     }
 }
