@@ -7,7 +7,7 @@ module.exports = (err, req, res, next) => {
         res.status(400).send(err.toString());
     } else {
         res.status(500);
-        res.send('Some problem has been occurs have a nice day.');
+        res.send({ message: 'Some problem has been occurs have a nice day.' });
     }
 }
 

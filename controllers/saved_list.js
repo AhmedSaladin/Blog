@@ -36,14 +36,14 @@ module.exports = {
             })
             if (article) {
                 res.status(406)
-                res.send("Article already added")
+                res.send({ message: "Article already added" })
             } else {
                 await Liked_Articles.create({
                     userId: user_id,
                     blogId: article_id
                 });
                 res.status(200);
-                res.send("Article added to list")
+                res.send({ message: "Article added to list" })
             }
         } catch (err) {
             next(err);
@@ -61,11 +61,11 @@ module.exports = {
             })
             if (!blog) {
                 res.status(400);
-                res.send('Please, save the article first.');
+                res.send({ message: 'Please, save the article first.' });
             } else {
                 blog.destroy();
                 res.status(202)
-                res.send("Article deleted.");
+                res.send({ message: "Article deleted." });
             }
         } catch (err) {
             next(err);

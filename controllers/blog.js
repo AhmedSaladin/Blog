@@ -9,7 +9,7 @@ module.exports = {
             const blogs = await Blog.findAll({ include: 'user' })
             if (!blogs.length) {
                 res.status(200);
-                res.send('Nothing here to view.');
+                res.send([]);
             } else {
                 const view = await home_view(blogs);
                 res.status(200);
@@ -27,7 +27,7 @@ module.exports = {
             })
             if (!blogs.length) {
                 res.status(200);
-                res.send('Nothing here to view.');
+                res.send([]);
             } else {
                 const view = await home_view(blogs);
                 res.status(200);
@@ -45,7 +45,7 @@ module.exports = {
                 include: 'user'
             })
             if (blog == null) {
-                res.status(404).send('Not Found *_*');
+                throw new Error('Article Not found.');
             } else {
                 const full_name = `${blog.user.first_name} ${blog.user.last_name}`;
                 res.status(200);
@@ -71,7 +71,7 @@ module.exports = {
                 article: req.body.article
             })
             res.status(201);
-            res.send('Blog Created.');
+            res.send({ message: 'Blog Created.' });
         } catch (err) {
             next(err);
         }
@@ -81,6 +81,7 @@ module.exports = {
         try {
             const id = req.params.id;
             const blog = await Blog.findOne({ where: { id } })
+            if (blog == null) { throw new Error('This article not found.') };
             if (blog.author == req.user) {
                 await blog_schema.validateAsync(req.body);
                 blog.update({
@@ -88,10 +89,9 @@ module.exports = {
                     title: req.body.title,
                 })
                 res.status(202);
-                res.send("Article Updated");
+                res.send({ message: "Article Updated" });
             } else {
-                res.status(400);
-                res.send("You can't edit this article.");
+                throw new Error(`You can't update this article.`)
             }
         } catch (err) {
             next(err);
@@ -103,15 +103,14 @@ module.exports = {
             const id = req.params.id;
             const blog = await Blog.findOne({ where: { id } })
             if (blog == null) {
-                res.status(404).send('Not Found *_*');
+                throw new Error('This article not found.')
             } else {
                 if (blog.author == req.user) {
                     blog.destroy();
-                    res.status(200)
-                    res.send("Article deleted.");
+                    res.status(202)
+                    res.send({ message: "Article deleted." });
                 } else {
-                    res.status(400);
-                    res.send("You can't delete this article.");
+                    throw new Error(`You can't delete this article.`)
                 }
             }
         } catch (err) {
