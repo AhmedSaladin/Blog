@@ -1,6 +1,6 @@
 const User = require('../models/user');
 const { hashing, check_password } = require('../utility/password');
-const { create_token } = require('../utility/create_tokken');
+const { create_token } = require('../utility/create_token');
 const { user_schema } = require('../utility/validation');
 
 module.exports = {
