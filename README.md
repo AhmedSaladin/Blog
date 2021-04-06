@@ -11,7 +11,21 @@ This application follow REST architectural style and it can be used as backend f
   - [API Documentation](#API_Document)
   - [Project Reference](#Reference)
 # Database Design
+
+  <img  src='./db design/blog database.png'  alt='database digram'  width='600' height='600' >
+  
 # Project Architecture
+```
+├── app                       ---contain application logger configuration and application full routes.
+├── config                    ---contain database connection configuration.
+├── controllers               ---contain all application logic. 
+├── db design                 ---contain database design digram.  
+├── logs                      ---contain logs files to recored all application faulties and informations.
+├── middlewares               ---contain all middleware used in application.
+├── models                    ---contain all database schemes used in application. 
+├── routes                    ---contain all application routes and link routes with their function in controllers folder.
+└── utility                   ---contain all helper functions used in application.
+```
 # Environment Variables
   This section is about environment varibales needed to run this project out without any issues and enviroment variables splite into three section database section and token section and application section.
   - Token:
