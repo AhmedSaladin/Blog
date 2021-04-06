@@ -4,15 +4,30 @@ This application follow REST architectural style and it can be used as backend f
   - [Summary](#BLOG)
   - [Table Of Content](#Table_of_content)
   - [Database Design](#Database_design)
-  - [Project Architectural](#Project_architectural)
+  - [Project Architectural](#Project_architecture)
   - [Environment Variables ](#Environment_variables )
   - [Usage](#Usage)
   - [What is Next?](#What_is_next?)
   - [API Documentation](#API_Document)
   - [Project Reference](#Reference)
 # Database design
-# Project architectural
-# Environment variables 
+# Project architecture
+# Environment variables
+  This section is about environment varibales needed to run this project out without any issues and enviroment variables splite into two section database section and token section.
+  - Token:
+    - ```SECRET``` and this varibale responsible about JWT secret configure to decode and encode payload data into token. 
+    
+  - Database: For database this project use ```sequelize``` ORM to connect to database and handle all database operation database used for this project is ```mysql```.
+    - ```USER_NAME``` for database username.
+    - ```PASSWORD``` for database username password.
+    - ```DATABASE_NAME``` for database name.
+    - ```HOST```  for database hostname.
+    - ```DATABASE_TYPE``` for database connection type.
+  
+  This project will not run without these variables because this variable contain database connection and setup and encryption secret for authorization header.
+  
+  To run this project without any problem I recommend to create ```.env``` file in project home directory and list these varibles in it. 
+     
 # Usage
 This section depend on ["environment variables section"](#Environment_variables) if you don't setup your [enviroment varible](#Environment_variables) or read "environment variables section" please, [check it out](#Environment_variables) to run project without any issues.
 
