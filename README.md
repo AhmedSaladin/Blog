@@ -10,9 +10,9 @@ This application follow REST architectural style and it can be used as backend f
   - [What is Next?](#What_is_next?)
   - [API Documentation](#API_Document)
   - [Project Reference](#Reference)
-# Database design
-# Project architecture
-# Environment variables
+# Database Design
+# Project Architecture
+# Environment Variables
   This section is about environment varibales needed to run this project out without any issues and enviroment variables splite into three section database section and token section and application section.
   - Token:
     - `SECRET` and this varibale responsible about JWT secret configure to decode and encode payload data into token. 
