@@ -1,5 +1,5 @@
 # BLOG
-This application follow REST architectural style and it can be used as backend for any blog design by following [API Document](#API_Document) for each API request and response all APIs tested and work.
+This application follow REST architectural style and it can be used as backend for any blog design by following [API Document](#API_Document) all APIs tested and work follow instructions from [Environment Variables](#Environment_Variables) then follow [Usage](#Usage) instructions to run project without any problems.
 # Table of content
   - [Summary](#BLOG)
   - [Table Of Content](#Table_of_content)
