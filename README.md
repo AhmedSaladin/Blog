@@ -1,5 +1,5 @@
 # BLOG
-This application follow REST architectural style and it can be used as backend for any blog design by following [API Document](#API_Document) all APIs tested and work please,  follow instructions from [Environment Variables](#Environment_Variables) then follow [Usage](#Usage) instructions to run project without any problems.
+This application follow REST architectural style and it can be used as backend for any blog design by following [API Document](#API_Document) all APIs tested and work great please,  follow instructions from [Environment Variables](#Environment_Variables) then follow [Usage](#Usage) instructions to run project without any problems.
 # Table of content
   - [Summary](#BLOG)
   - [Table Of Content](#Table_of_content)
@@ -16,15 +16,15 @@ This application follow REST architectural style and it can be used as backend f
   
 # Project Architecture
 ```
-├── app                       ---contain application logger configuration and application full routes.
-├── config                    ---contain database connection configuration.
-├── controllers               ---contain all application logic. 
-├── db design                 ---contain database design digram.  
-├── logs                      ---contain logs files to recored all application faulties and informations.
-├── middlewares               ---contain all middleware used in application.
-├── models                    ---contain all database schemes used in application. 
-├── routes                    ---contain all application routes and link routes with their function in controllers folder.
-└── utility                   ---contain all helper functions used in application.
+├── app                   ---contain application logger configuration and application full routes.
+├── config                ---contain database connection configuration.
+├── controllers           ---contain all application logic. 
+├── db design             ---contain database design digram.  
+├── logs                  ---contain logs files to recored all application faulties and informations.
+├── middlewares           ---contain all middleware used in application.
+├── models                ---contain all database schemes used in application. 
+├── routes                ---contain all application routes and link routes with their function in controllers folder.
+└── utility               ---contain all helper functions used in application.
 ```
 # Environment Variables
   This section is about environment varibales needed to run this project out without any issues and enviroment variables splite into three section database section and token section and application section.
