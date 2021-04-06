@@ -57,11 +57,10 @@ This Section is for APIs documentation for each route under this project and con
   - [SavedList Docs](https://documenter.getpostman.com/view/6747699/TzCQbmrE#bdab63e2-77a7-4d82-8315-3e7a7c00b8fb)
 # Reference 
 This Section is for books or articles I have been reading or try to follow when I develop and design this project.
-- [Node Best Practices ][1]
+- [Node Best Practices ](https://github.com/goldbergyoni/nodebestpractices)
 - [Clean Architecture in Node.js](https://github.com/howardmann/clean-node)
 - [Clean Code Javascript ](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Design Pattern For Human](https://github.com/kamranahmedse/design-patterns-for-humans)
 - [Airbnb Style Guide](https://github.com/airbnb/javascript)
 - [Javascript Best Practice Book](https://www.sitepoint.com/premium/books/javascript-best-practice/read/1)
 - [The Modern JavaScript Book](https://javascript.info/)
-  [1]: https://github.com/goldbergyoni/nodebestpractices
