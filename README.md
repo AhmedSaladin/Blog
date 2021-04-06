@@ -14,7 +14,7 @@ This application follow REST architectural style and it can be used as backend f
 # Project architectural
 # Environment variables 
 # Usage
-This section depend on ["environment variables section"](#Environment_variables) if you don't setup your [enviroment varible](#Environment_variables) or read Environment variables section please, [check it out](#Environment_variables) to run project without any issues.
+This section depend on ["environment variables section"](#Environment_variables) if you don't setup your [enviroment varible](#Environment_variables) or read "environment variables section" please, [check it out](#Environment_variables) to run project without any issues.
 
 To run this project in your machine you need this requirements: 
 - Node.js 14.13.1
