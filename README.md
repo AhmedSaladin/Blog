@@ -19,6 +19,7 @@ This section depend on [Environment variables section](#Environment_variables) i
 To run this project in your machine you need this requirements: 
 - Node.js 14.13.1
 - NPM 6.14.8
+
 After install requirments you need to preform these commands:
 - ```npm install``` to install project dependenc.
 - ```npm test``` and to run this command with no issue you need to be certain you have nodemon installed globally in your machine if not install it by this command ```npm install -g nodemon``` or for this project only run ```npm install -d nodemon``` if you don't know nodemon or what it used for? [click here](https://www.npmjs.com/package/nodemon).
