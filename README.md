@@ -13,16 +13,19 @@ This application follow REST architectural style and it can be used as backend f
 # Database design
 # Project architecture
 # Environment variables
-  This section is about environment varibales needed to run this project out without any issues and enviroment variables splite into two section database section and token section.
+  This section is about environment varibales needed to run this project out without any issues and enviroment variables splite into three section database section and token section and application section.
   - Token:
-    - ```SECRET``` and this varibale responsible about JWT secret configure to decode and encode payload data into token. 
+    - `SECRET` and this varibale responsible about JWT secret configure to decode and encode payload data into token. 
     
-  - Database: For database this project use ```sequelize``` ORM to connect to database and handle all database operation database used for this project is ```mysql```.
-    - ```USER_NAME``` for database username.
-    - ```PASSWORD``` for database username password.
-    - ```DATABASE_NAME``` for database name.
-    - ```HOST```  for database hostname.
-    - ```DATABASE_TYPE``` for database connection type.
+  - Database: For database this project use `sequelize` ORM to connect to database and handle all database operation database used for this project is `mysql`.
+    - `USER_NAME` for database username.
+    - `PASSWORD` for database username password.
+    - `DATABASE_NAME` for database name.
+    - `HOST` for database hostname.
+    - `DATABASE_TYPE` for database connection type.
+  - Application:
+    - `PORT` this variable is for setting up port number to let server run if is not defined then the server by default listen on port 3000.
+    -  `NODE_ENV` this variable is for server know where it run if it run in `production` the server logger will disabled from console and stored into files else logs show in console to trace actions in application.  
   
   This project will not run without these variables because this variable contain database connection and setup and encryption secret for authorization header.
   
@@ -45,7 +48,7 @@ After install requirments you need to preform these commands:
 - [ ] Adding unit test.
 - [ ] Preform Integration Test.
 - [ ] Write some TDD.
-- [ ] Deploy code into production.
+- [ ] Deploy code into cloud.
 - [ ] Design a proper frontend.  
 - [ ] Follow all [Node Best Practices Guide][NBP]
 - [ ] Redesign project architecture to follow [Clean Architecture Principles or DDD Design][CAN]
