@@ -37,7 +37,7 @@ To run this project in your machine you need this requirements:
 
 After install requirments you need to preform these commands:
 - ```npm install``` to install project dependenc.
-- ```npm test``` and to run this command with no issue you need to be certain you have nodemon installed globally in your machine if not install it by this command ```npm install -g nodemon``` or for this project only run ```npm install -d nodemon``` if you don't know nodemon or what it used for? [click here](https://www.npmjs.com/package/nodemon).
+- ```npm test``` and to run this command with no issue you need to be certain you have nodemon installed globally in your machine if not install it by this command ```npm install -g nodemon``` or for this project only run ```npm install -d nodemon``` if you don't know nodemon or what it used for? [click here][NM].
 - ```npm start``` for run project with node and it for prodution configuration. 
 
 # What is next?
@@ -47,20 +47,25 @@ After install requirments you need to preform these commands:
 - [ ] Write some TDD.
 - [ ] Deploy code into production.
 - [ ] Design a proper frontend.  
-- [ ] [Follow all node.js Best Practice guide](https://github.com/goldbergyoni/nodebestpractices)
-- [ ] [Redesign project architecture to follow clean architecture principles or DDD design](https://github.com/howardmann/clean-node)
+- [ ] Follow all [Node Best Practices Guide][NBP]
+- [ ] Redesign project architecture to follow [Clean Architecture Principles or DDD Design][CAN]
 # API Document
-This Section is for APIs documentation for each route under this project and contain each request and response and failure response if something went wronge or request miss some data.
+This Section is for APIs documentation for each route under this project and contain each request and response and failure response if something went wronge or request missing some data and it hosted and tested via [Postman][PM].
   - [Full Docs](https://documenter.getpostman.com/view/6747699/TzCQbmrE)
   - [Articles Docs](https://documenter.getpostman.com/view/6747699/TzCQbmrE#c56d0510-0d54-45c1-882a-26aebef33869)
   - [User Docs](https://documenter.getpostman.com/view/6747699/TzCQbmrE#0137d7db-e919-4f5a-97d6-efb2e1f8332c)
   - [SavedList Docs](https://documenter.getpostman.com/view/6747699/TzCQbmrE#bdab63e2-77a7-4d82-8315-3e7a7c00b8fb)
 # Reference 
 This Section is for books or articles I have been reading or try to follow when I develop and design this project.
-- [Node Best Practices ](https://github.com/goldbergyoni/nodebestpractices)
-- [Clean Architecture in Node.js](https://github.com/howardmann/clean-node)
+- [Node Best Practices ][NBP]
+- [Clean Architecture in Node.js][CAN]
 - [Clean Code Javascript ](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Design Pattern For Human](https://github.com/kamranahmedse/design-patterns-for-humans)
 - [Airbnb Style Guide](https://github.com/airbnb/javascript)
 - [Javascript Best Practice Book](https://www.sitepoint.com/premium/books/javascript-best-practice/read/1)
 - [The Modern JavaScript Book](https://javascript.info/)
+
+[NBP]: https://github.com/goldbergyoni/nodebestpractices
+[CAN]: https://github.com/howardmann/clean-node
+[NM]: https://www.npmjs.com/package/nodemon
+[PM]: https://www.postman.com/
