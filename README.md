@@ -24,6 +24,7 @@ This application follow REST architectural style and it can be used as backend f
 ├── middlewares           ---contain all middleware used in application.
 ├── models                ---contain all database schemes used in application. 
 ├── routes                ---contain all application routes and link routes with their function in controllers folder.
+├── tests                 ---contain all application tests.
 └── utility               ---contain all helper functions used in application.
 ```
 # Environment Variables
@@ -53,13 +54,14 @@ To run this project in your machine you need this requirements:
 - NPM 6.14.8
 
 After install requirments you need to preform these commands:
-- ```npm install``` to install project dependenc.
-- ```npm test``` and to run this command with no issue you need to be certain you have nodemon installed globally in your machine if not install it by this command ```npm install -g nodemon``` or for this project only run ```npm install -d nodemon``` if you don't know nodemon or what it used for? [click here][NM].
-- ```npm start``` for run project with node and it for prodution configuration. 
+- `npm install` to install project dependenc.
+- `npm run dev-test` and to run this command with no issue you need to be certain you have nodemon installed globally in your machine if not install it by this command `npm install -g nodemon` or for this project only run ```npm install -d nodemon``` if you don't know nodemon or what it used for? [click here][NM].
+- `npm start` for run project with node and it for prodution configuration.
+- `npm test` run all application tests with jest. 
 
 # What is next?
 - [ ] Solve user profile picture problem.
-- [ ] Adding unit test.
+- [X] Adding unit test.
 - [ ] Preform Integration Test.
 - [ ] Write some TDD.
 - [ ] Deploy code into cloud.
