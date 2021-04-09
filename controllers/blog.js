@@ -19,6 +19,7 @@ module.exports = {
             next(err);
         }
     },
+
     My_articles: async (req, res, next) => {
         try {
             const blogs = await Blog.findAll({
@@ -37,6 +38,7 @@ module.exports = {
             next(err);
         }
     },
+
     single_article: async (req, res, next) => {
         try {
             const id = req.params.id;
@@ -45,7 +47,7 @@ module.exports = {
                 include: 'user'
             })
             if (blog == null) {
-                throw new Error('Article Not found.');
+                throw new Error('This article not found');
             } else {
                 const full_name = `${blog.user.first_name} ${blog.user.last_name}`;
                 res.status(200);
@@ -71,7 +73,7 @@ module.exports = {
                 article: req.body.article
             })
             res.status(201);
-            res.send({ message: 'Blog Created.' });
+            res.send({ message: 'Article Created' });
         } catch (err) {
             next(err);
         }
@@ -81,12 +83,12 @@ module.exports = {
         try {
             const id = req.params.id;
             const blog = await Blog.findOne({ where: { id } })
-            if (blog == null) { throw new Error('This article not found.') };
+            if (blog == null) { throw new Error('This article not found') };
             if (blog.author == req.user) {
                 await blog_schema.validateAsync(req.body);
                 blog.update({
-                    article: req.body.article,
                     title: req.body.title,
+                    article: req.body.article
                 })
                 res.status(202);
                 res.send({ message: "Article Updated" });
@@ -103,12 +105,12 @@ module.exports = {
             const id = req.params.id;
             const blog = await Blog.findOne({ where: { id } })
             if (blog == null) {
-                throw new Error('This article not found.')
+                throw new Error('This article not found')
             } else {
                 if (blog.author == req.user) {
                     blog.destroy();
                     res.status(202)
-                    res.send({ message: "Article deleted." });
+                    res.send({ message: "Article deleted" });
                 } else {
                     throw new Error(`You can't delete this article.`)
                 }
@@ -132,4 +134,3 @@ const home_view = (blogs) => {
     })
     return list;
 }
-

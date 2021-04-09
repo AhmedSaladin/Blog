@@ -609,3 +609,798 @@
 {"service":"user-service","level":"error","message":{},"timestamp":"2021-04-05 19:04:34"}
 {"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-05 19:17:40"}
 {"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-05 19:17:40"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 14:52:15"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 14:52:15"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 14:54:28"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 14:54:28"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 14:55:31"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 14:55:31"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 14:56:17"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 14:56:18"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 14:59:14"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 14:59:14"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 15:00:00"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 15:00:00"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 15:01:55"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 15:01:55"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 15:03:18"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 15:03:18"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 15:09:24"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 15:09:24"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 15:09:50"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 15:09:51"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 15:17:20"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 15:17:21"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 15:17:46"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 15:17:47"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 15:18:37"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 15:18:37"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 15:19:01"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 15:19:02"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 15:24:06"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 15:24:06"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 15:25:01"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 15:25:01"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 15:25:37"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 15:25:37"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 15:27:03"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 15:27:03"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 15:27:55"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 15:27:56"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 15:29:31"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 15:29:32"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 15:29:58"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 15:29:58"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 15:29:58"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 15:57:06"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 15:57:06"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 15:57:25"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 15:57:56"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 15:57:56"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 15:57:56"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 15:58:25"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 15:58:25"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 15:58:28"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 15:58:42"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 15:58:42"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 15:58:42"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 15:59:15"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 15:59:15"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 15:59:18"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 15:59:37"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 15:59:37"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 15:59:49"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 15:59:49"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 15:59:52"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 16:00:30"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 16:00:30"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 16:00:33"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 16:00:52"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 16:00:52"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 16:00:52"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 16:02:24"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 16:02:24"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 16:02:32"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 16:02:33"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 16:02:33"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 16:03:00"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 16:03:00"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 16:03:00"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 16:03:11"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 16:03:11"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 16:03:12"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 16:03:22"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 16:03:22"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 16:03:22"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 16:05:33"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 16:05:33"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 16:06:35"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 16:06:35"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 16:06:38"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 16:06:59"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 16:06:59"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 16:06:59"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 16:07:02"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 16:08:03"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 16:08:03"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 16:08:10"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 16:11:12"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 16:11:12"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 16:11:13"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 16:12:22"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 16:12:23"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 16:12:23"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 16:12:28"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 16:12:55"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 16:12:55"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 16:13:03"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 16:13:03"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 16:13:03"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 16:13:06"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 16:13:48"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 16:13:48"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 16:13:51"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 16:14:14"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 16:14:14"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 16:14:17"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 16:15:12"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 16:15:13"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 16:16:31"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 16:16:31"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 16:16:33"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 16:16:53"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 16:18:23"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 16:18:23"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 16:18:27"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 16:18:38"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 16:18:39"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 16:26:52"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 16:26:56"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 16:27:01"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 16:27:01"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 16:29:29"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 16:29:29"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 16:30:49"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 16:30:49"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 16:30:50"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 16:32:42"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 16:32:42"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 16:32:43"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 16:34:48"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 16:34:48"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 16:34:49"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 17:10:35"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 17:10:39"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 17:10:39"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 17:11:32"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 17:11:32"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 17:11:32"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 17:13:08"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 17:13:08"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 17:13:08"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 17:13:48"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 17:13:49"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 17:13:49"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 17:15:16"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 17:15:16"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 17:15:16"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 17:20:05"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 17:20:05"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 17:20:06"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 17:20:21"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 17:20:21"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 17:20:21"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 17:21:06"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 17:21:06"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 17:21:06"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 17:21:33"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 17:21:33"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 17:21:34"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 17:21:40"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 17:21:40"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 17:21:40"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 17:21:51"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 17:21:51"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 17:21:51"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 17:32:17"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 17:32:19"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 17:32:47"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 17:32:47"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 17:34:24"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 17:34:24"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 17:34:24"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 17:34:58"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 17:34:58"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 17:34:59"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 17:35:11"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 17:35:11"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 17:35:11"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 17:35:25"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 17:35:25"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 17:35:25"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 17:41:38"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 17:41:39"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 17:41:39"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 17:47:54"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 17:47:54"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 17:48:27"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 17:48:28"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 17:48:28"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 17:53:31"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 17:53:32"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 17:53:32"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 17:53:32"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 17:56:49"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 17:56:49"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 17:56:49"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 17:56:49"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 17:57:20"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 17:57:20"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 17:57:21"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 17:57:21"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 17:59:01"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 17:59:01"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 17:59:02"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 17:59:02"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 18:00:08"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 18:00:08"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:00:08"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:00:08"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 18:06:24"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 18:06:25"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:06:25"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:06:25"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 18:08:18"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 18:08:18"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:08:18"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:08:18"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 18:09:19"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 18:09:19"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:09:20"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:09:20"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 18:12:34"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 18:12:37"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:12:37"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:12:37"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 18:12:43"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 18:12:43"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:12:43"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:12:43"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 18:16:07"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 18:16:07"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:16:07"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:16:07"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 18:16:53"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 18:16:53"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:16:53"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:16:54"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 18:17:04"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 18:17:04"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:17:04"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:17:04"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 18:20:46"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 18:20:46"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:20:47"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:20:47"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 18:40:45"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 18:40:47"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:40:47"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:40:47"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 18:41:18"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 18:41:18"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:41:19"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:41:19"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 18:42:44"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 18:42:45"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:42:45"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:42:45"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 18:43:43"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 18:43:44"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:43:44"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:43:44"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 18:46:15"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 18:46:16"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:46:16"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:46:16"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 18:47:00"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 18:47:01"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:47:01"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:47:01"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 18:48:29"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 18:48:30"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:48:30"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:48:30"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:48:30"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:48:30"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 18:48:52"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 18:48:52"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:48:52"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:48:52"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:48:52"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:48:52"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 18:51:04"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 18:51:04"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:51:04"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:51:04"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:51:05"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 18:51:17"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 18:51:17"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:51:17"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:51:17"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:51:17"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 18:52:05"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 18:52:06"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:52:06"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:52:06"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 18:52:18"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 18:52:18"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:52:18"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:52:18"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 18:53:06"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 18:53:06"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:53:06"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:53:06"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 18:53:11"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 18:53:12"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:53:12"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:53:12"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 18:54:28"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 18:54:29"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:54:29"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 18:54:29"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:20:05"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 20:20:11"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:20:11"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:20:11"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:20:34"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 20:20:35"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:20:35"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:20:35"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:20:48"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 20:20:48"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:20:48"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:20:48"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:26:13"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 20:26:14"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:26:15"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:26:15"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:26:15"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:28:44"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 20:28:44"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:28:44"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:28:44"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:28:44"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"how are you."},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 20:28:44"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:28:49"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 20:28:50"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:28:50"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:28:50"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:28:50"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"how are you."},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 20:28:50"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:30:43"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 20:30:44"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:30:44"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:30:44"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:30:44"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"how are you."},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 20:30:44"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:31:05"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 20:31:06"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:31:06"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:31:06"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:31:06"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"how are you."},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 20:31:06"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:31:29"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 20:31:29"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:31:29"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:31:29"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:31:29"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"how are you."},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 20:31:29"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:32:11"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 20:32:12"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:32:12"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:32:12"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:32:12"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"how are you."},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 20:32:12"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:33:10"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 20:33:10"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:33:11"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:33:11"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:33:11"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"how are you."},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 20:33:11"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:33:47"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 20:33:47"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:33:47"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:33:47"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:33:47"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"how are you."},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 20:33:47"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:34:15"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 20:34:15"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:34:16"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:34:16"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:34:16"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"how are you."},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 20:34:16"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:34:58"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 20:34:58"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:34:58"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:34:58"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:34:58"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"how are you."},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 20:34:59"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:35:23"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 20:35:23"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:35:23"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:35:24"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:35:24"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"how are you."},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 20:35:24"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:36:04"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 20:36:04"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:36:05"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:36:05"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:36:05"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"how are you."},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 20:36:05"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:36:32"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 20:36:33"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:36:33"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:36:34"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:36:34"}
+{"service":"user-service","level":"error","message":{"_original":{},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 20:36:34"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:36:50"}
+{"service":"user-service","level":"error","message":{"name":"SequelizeConnectionError","parent":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"},"original":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"}},"timestamp":"2021-04-09 20:36:50"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:36:50"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:36:50"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:36:51"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:37:20"}
+{"service":"user-service","level":"error","message":{"name":"SequelizeConnectionError","parent":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"},"original":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"}},"timestamp":"2021-04-09 20:37:21"}
+{"service":"user-service","level":"error","message":{"name":"SequelizeConnectionError","parent":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"},"original":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"}},"timestamp":"2021-04-09 20:37:21"}
+{"service":"user-service","level":"error","message":{"name":"SequelizeConnectionError","parent":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"},"original":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"}},"timestamp":"2021-04-09 20:37:21"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:37:21"}
+{"service":"user-service","level":"error","message":{"name":"SequelizeConnectionError","parent":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"},"original":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"}},"timestamp":"2021-04-09 20:37:21"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:37:21"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"is work good"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 20:37:21"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:38:45"}
+{"service":"user-service","level":"error","message":{"name":"SequelizeConnectionError","parent":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"},"original":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"}},"timestamp":"2021-04-09 20:38:45"}
+{"service":"user-service","level":"error","message":{"name":"SequelizeConnectionError","parent":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"},"original":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"}},"timestamp":"2021-04-09 20:38:45"}
+{"service":"user-service","level":"error","message":{"name":"SequelizeConnectionError","parent":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"},"original":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"}},"timestamp":"2021-04-09 20:38:45"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:38:45"}
+{"service":"user-service","level":"error","message":{"name":"SequelizeConnectionError","parent":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"},"original":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"}},"timestamp":"2021-04-09 20:38:45"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:38:45"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 20:38:46"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:39:48"}
+{"service":"user-service","level":"error","message":{"name":"SequelizeConnectionError","parent":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"},"original":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"}},"timestamp":"2021-04-09 20:39:48"}
+{"service":"user-service","level":"error","message":{"name":"SequelizeConnectionError","parent":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"},"original":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"}},"timestamp":"2021-04-09 20:39:48"}
+{"service":"user-service","level":"error","message":{"name":"SequelizeConnectionError","parent":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"},"original":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"}},"timestamp":"2021-04-09 20:39:48"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:39:48"}
+{"service":"user-service","level":"error","message":{"name":"SequelizeConnectionError","parent":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"},"original":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"}},"timestamp":"2021-04-09 20:39:48"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:39:48"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 20:39:48"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:40:27"}
+{"service":"user-service","level":"error","message":{"name":"SequelizeConnectionError","parent":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"},"original":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"}},"timestamp":"2021-04-09 20:40:28"}
+{"service":"user-service","level":"error","message":{"name":"SequelizeConnectionError","parent":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"},"original":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"}},"timestamp":"2021-04-09 20:40:28"}
+{"service":"user-service","level":"error","message":{"name":"SequelizeConnectionError","parent":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"},"original":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"}},"timestamp":"2021-04-09 20:40:29"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:40:29"}
+{"service":"user-service","level":"error","message":{"name":"SequelizeConnectionError","parent":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"},"original":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"}},"timestamp":"2021-04-09 20:40:29"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:40:29"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 20:40:29"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:40:58"}
+{"service":"user-service","level":"error","message":{"name":"SequelizeConnectionError","parent":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"},"original":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"}},"timestamp":"2021-04-09 20:40:58"}
+{"service":"user-service","level":"error","message":{"name":"SequelizeConnectionError","parent":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"},"original":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"}},"timestamp":"2021-04-09 20:40:58"}
+{"service":"user-service","level":"error","message":{"name":"SequelizeConnectionError","parent":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"},"original":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"}},"timestamp":"2021-04-09 20:40:59"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:40:59"}
+{"service":"user-service","level":"error","message":{"name":"SequelizeConnectionError","parent":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"},"original":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"}},"timestamp":"2021-04-09 20:40:59"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:40:59"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 20:40:59"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:41:27"}
+{"service":"user-service","level":"error","message":{"name":"SequelizeConnectionError","parent":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"},"original":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"}},"timestamp":"2021-04-09 20:41:28"}
+{"service":"user-service","level":"error","message":{"name":"SequelizeConnectionError","parent":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"},"original":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"}},"timestamp":"2021-04-09 20:41:28"}
+{"service":"user-service","level":"error","message":{"name":"SequelizeConnectionError","parent":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"},"original":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"}},"timestamp":"2021-04-09 20:41:29"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:41:29"}
+{"service":"user-service","level":"error","message":{"name":"SequelizeConnectionError","parent":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"},"original":{"code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections"}},"timestamp":"2021-04-09 20:41:29"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:41:29"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 20:41:29"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:44:26"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 20:44:29"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:44:30"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:44:30"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:44:30"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 20:44:30"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:44:35"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 20:44:35"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:44:35"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:44:35"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:44:35"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 20:44:35"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:46:45"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 20:46:45"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:46:45"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:46:45"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:46:45"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 20:46:45"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:50:32"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 20:50:32"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:50:32"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:50:32"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:50:32"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 20:50:33"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:51:36"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 20:51:36"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:51:36"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:51:36"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:51:37"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 20:51:37"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:53:16"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 20:53:16"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:53:17"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:53:17"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:53:17"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 20:53:17"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:55:54"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 20:55:54"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:55:54"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:55:54"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:55:54"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd","article":"5555555"},"details":[{"message":"\"article\" length must be at least 50 characters long","path":["article"],"type":"string.min","context":{"limit":50,"value":"5555555","label":"article","key":"article"}}]},"timestamp":"2021-04-09 20:55:55"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:57:19"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 20:57:19"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:57:19"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:57:19"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:57:19"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd","article":"5555555"},"details":[{"message":"\"article\" length must be at least 50 characters long","path":["article"],"type":"string.min","context":{"limit":50,"value":"5555555","label":"article","key":"article"}}]},"timestamp":"2021-04-09 20:57:19"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:58:34"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 20:58:34"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:58:34"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:58:34"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:58:35"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd","article":"5555555"},"details":[{"message":"\"article\" length must be at least 50 characters long","path":["article"],"type":"string.min","context":{"limit":50,"value":"5555555","label":"article","key":"article"}}]},"timestamp":"2021-04-09 20:58:35"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 20:59:54"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 20:59:54"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:59:54"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:59:54"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 20:59:54"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 20:59:54"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 21:03:02"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 21:03:02"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 21:03:02"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 21:03:02"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 21:03:02"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 21:03:02"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 21:07:29"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 21:07:29"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 21:07:29"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 21:07:29"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 21:07:29"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 21:07:29"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 21:09:41"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 21:09:41"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 21:09:42"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 21:09:42"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 21:09:42"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 21:09:42"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 21:10:09"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 21:10:09"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 21:10:09"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 21:10:09"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 21:10:09"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 21:10:09"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 21:10:09"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"doo","article":"cooo"},"details":[{"message":"\"article\" length must be at least 50 characters long","path":["article"],"type":"string.min","context":{"limit":50,"value":"cooo","label":"article","key":"article"}}]},"timestamp":"2021-04-09 21:10:09"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"doo","article":"abbdjhbdmmmjhjdjfhvbndjlslkeuejjdhvnndjhhfddsdx"},"details":[{"message":"\"article\" length must be at least 50 characters long","path":["article"],"type":"string.min","context":{"limit":50,"value":"abbdjhbdmmmjhjdjfhvbndjlslkeuejjdhvnndjhhfddsdx","label":"article","key":"article"}}]},"timestamp":"2021-04-09 21:10:09"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 21:25:04"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 21:25:04"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 21:25:05"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 21:25:05"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 21:25:05"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 21:27:32"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 21:27:33"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 21:27:33"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 21:27:33"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 21:27:33"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 21:31:02"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 21:31:02"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 21:31:02"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 21:31:03"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 21:31:03"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 21:31:08"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 21:31:08"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 21:31:08"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 21:31:08"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 21:31:08"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 21:34:43"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 21:34:43"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 21:34:44"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 21:34:44"}
+{"service":"user-service","level":"error","message":{"name":"JsonWebTokenError","message":"jwt must be provided"},"timestamp":"2021-04-09 21:34:44"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 21:34:44"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 21:34:44"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"are you ok?","article":"self esteem"},"details":[{"message":"\"article\" length must be at least 50 characters long","path":["article"],"type":"string.min","context":{"limit":50,"value":"self esteem","label":"article","key":"article"}}]},"timestamp":"2021-04-09 21:34:44"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ok","article":"ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"},"details":[{"message":"\"title\" length must be at least 3 characters long","path":["title"],"type":"string.min","context":{"limit":3,"value":"ok","label":"title","key":"title"}}]},"timestamp":"2021-04-09 21:34:44"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 21:37:28"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 21:37:29"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 21:37:29"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 21:37:29"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 21:37:29"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 21:37:29"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 21:37:30"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"are you ok?","article":"self esteem"},"details":[{"message":"\"article\" length must be at least 50 characters long","path":["article"],"type":"string.min","context":{"limit":50,"value":"self esteem","label":"article","key":"article"}}]},"timestamp":"2021-04-09 21:37:30"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ok","article":"ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"},"details":[{"message":"\"title\" length must be at least 3 characters long","path":["title"],"type":"string.min","context":{"limit":3,"value":"ok","label":"title","key":"title"}}]},"timestamp":"2021-04-09 21:37:30"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 21:41:53"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 21:41:53"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 21:41:53"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 21:41:53"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 21:41:54"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 21:41:54"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 21:41:54"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"are you ok?","article":"self esteem"},"details":[{"message":"\"article\" length must be at least 50 characters long","path":["article"],"type":"string.min","context":{"limit":50,"value":"self esteem","label":"article","key":"article"}}]},"timestamp":"2021-04-09 21:41:54"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ok","article":"ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"},"details":[{"message":"\"title\" length must be at least 3 characters long","path":["title"],"type":"string.min","context":{"limit":3,"value":"ok","label":"title","key":"title"}}]},"timestamp":"2021-04-09 21:41:54"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 22:09:45"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 22:09:49"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:09:49"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:09:49"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:09:49"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 22:09:49"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 22:09:49"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"are you ok?","article":"self esteem"},"details":[{"message":"\"article\" length must be at least 50 characters long","path":["article"],"type":"string.min","context":{"limit":50,"value":"self esteem","label":"article","key":"article"}}]},"timestamp":"2021-04-09 22:09:49"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ok","article":"ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"},"details":[{"message":"\"title\" length must be at least 3 characters long","path":["title"],"type":"string.min","context":{"limit":3,"value":"ok","label":"title","key":"title"}}]},"timestamp":"2021-04-09 22:09:49"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:09:50"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:09:50"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:09:50"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 22:09:50"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 22:09:50"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 22:09:55"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 22:09:56"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:09:56"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:09:56"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:09:56"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 22:09:56"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 22:09:56"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"are you ok?","article":"self esteem"},"details":[{"message":"\"article\" length must be at least 50 characters long","path":["article"],"type":"string.min","context":{"limit":50,"value":"self esteem","label":"article","key":"article"}}]},"timestamp":"2021-04-09 22:09:56"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ok","article":"ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"},"details":[{"message":"\"title\" length must be at least 3 characters long","path":["title"],"type":"string.min","context":{"limit":3,"value":"ok","label":"title","key":"title"}}]},"timestamp":"2021-04-09 22:09:56"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:09:56"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:09:56"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:09:57"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 22:09:57"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 22:09:57"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 22:22:01"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 22:22:02"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:22:02"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:22:02"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:22:02"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 22:22:02"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 22:22:02"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"are you ok?","article":"self esteem"},"details":[{"message":"\"article\" length must be at least 50 characters long","path":["article"],"type":"string.min","context":{"limit":50,"value":"self esteem","label":"article","key":"article"}}]},"timestamp":"2021-04-09 22:22:02"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ok","article":"ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"},"details":[{"message":"\"title\" length must be at least 3 characters long","path":["title"],"type":"string.min","context":{"limit":3,"value":"ok","label":"title","key":"title"}}]},"timestamp":"2021-04-09 22:22:02"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:22:02"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:22:03"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:22:03"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 22:22:03"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 22:22:03"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 22:23:43"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 22:23:43"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:23:44"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:23:44"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:23:44"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 22:23:44"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 22:23:44"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"are you ok?","article":"self esteem"},"details":[{"message":"\"article\" length must be at least 50 characters long","path":["article"],"type":"string.min","context":{"limit":50,"value":"self esteem","label":"article","key":"article"}}]},"timestamp":"2021-04-09 22:23:44"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ok","article":"ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"},"details":[{"message":"\"title\" length must be at least 3 characters long","path":["title"],"type":"string.min","context":{"limit":3,"value":"ok","label":"title","key":"title"}}]},"timestamp":"2021-04-09 22:23:44"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:23:44"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:23:44"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:23:44"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 22:23:44"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 22:23:44"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 22:24:53"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 22:24:54"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:24:54"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:24:54"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:24:54"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 22:24:54"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 22:24:55"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"are you ok?","article":"self esteem"},"details":[{"message":"\"article\" length must be at least 50 characters long","path":["article"],"type":"string.min","context":{"limit":50,"value":"self esteem","label":"article","key":"article"}}]},"timestamp":"2021-04-09 22:24:55"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ok","article":"ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"},"details":[{"message":"\"title\" length must be at least 3 characters long","path":["title"],"type":"string.min","context":{"limit":3,"value":"ok","label":"title","key":"title"}}]},"timestamp":"2021-04-09 22:24:55"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:24:55"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:24:55"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:24:55"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 22:24:55"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 22:24:55"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"are you ok?","article":"self esteem"},"details":[{"message":"\"article\" length must be at least 50 characters long","path":["article"],"type":"string.min","context":{"limit":50,"value":"self esteem","label":"article","key":"article"}}]},"timestamp":"2021-04-09 22:24:55"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ok","article":"ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"},"details":[{"message":"\"title\" length must be at least 3 characters long","path":["title"],"type":"string.min","context":{"limit":3,"value":"ok","label":"title","key":"title"}}]},"timestamp":"2021-04-09 22:24:55"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 22:25:01"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 22:25:02"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:25:02"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:25:02"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:25:02"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 22:25:02"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 22:25:02"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"are you ok?","article":"self esteem"},"details":[{"message":"\"article\" length must be at least 50 characters long","path":["article"],"type":"string.min","context":{"limit":50,"value":"self esteem","label":"article","key":"article"}}]},"timestamp":"2021-04-09 22:25:03"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ok","article":"ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"},"details":[{"message":"\"title\" length must be at least 3 characters long","path":["title"],"type":"string.min","context":{"limit":3,"value":"ok","label":"title","key":"title"}}]},"timestamp":"2021-04-09 22:25:03"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:25:03"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:25:03"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:25:03"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 22:25:03"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 22:25:03"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"are you ok?","article":"self esteem"},"details":[{"message":"\"article\" length must be at least 50 characters long","path":["article"],"type":"string.min","context":{"limit":50,"value":"self esteem","label":"article","key":"article"}}]},"timestamp":"2021-04-09 22:25:03"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ok","article":"ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"},"details":[{"message":"\"title\" length must be at least 3 characters long","path":["title"],"type":"string.min","context":{"limit":3,"value":"ok","label":"title","key":"title"}}]},"timestamp":"2021-04-09 22:25:03"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 22:35:55"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 22:35:57"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:35:57"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:35:57"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:35:58"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 22:35:58"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 22:35:58"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"are you ok?","article":"self esteem"},"details":[{"message":"\"article\" length must be at least 50 characters long","path":["article"],"type":"string.min","context":{"limit":50,"value":"self esteem","label":"article","key":"article"}}]},"timestamp":"2021-04-09 22:35:58"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ok","article":"ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"},"details":[{"message":"\"title\" length must be at least 3 characters long","path":["title"],"type":"string.min","context":{"limit":3,"value":"ok","label":"title","key":"title"}}]},"timestamp":"2021-04-09 22:35:58"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:35:58"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:35:58"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:35:58"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 22:35:58"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 22:35:58"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"are you ok?","article":"self esteem"},"details":[{"message":"\"article\" length must be at least 50 characters long","path":["article"],"type":"string.min","context":{"limit":50,"value":"self esteem","label":"article","key":"article"}}]},"timestamp":"2021-04-09 22:35:58"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ok","article":"ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"},"details":[{"message":"\"title\" length must be at least 3 characters long","path":["title"],"type":"string.min","context":{"limit":3,"value":"ok","label":"title","key":"title"}}]},"timestamp":"2021-04-09 22:35:58"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:35:58"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:35:58"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 22:35:58"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 23:01:50"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:01:50"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 23:01:51"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:01:51"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:01:51"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 23:02:12"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:02:12"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 23:02:12"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:02:12"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:02:12"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:02:12"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 23:03:23"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:03:23"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 23:03:23"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:03:23"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:03:23"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 23:03:23"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 23:03:23"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"are you ok?","article":"self esteem"},"details":[{"message":"\"article\" length must be at least 50 characters long","path":["article"],"type":"string.min","context":{"limit":50,"value":"self esteem","label":"article","key":"article"}}]},"timestamp":"2021-04-09 23:03:23"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ok","article":"ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"},"details":[{"message":"\"title\" length must be at least 3 characters long","path":["title"],"type":"string.min","context":{"limit":3,"value":"ok","label":"title","key":"title"}}]},"timestamp":"2021-04-09 23:03:23"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 23:03:25"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:03:25"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 23:03:25"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 23:03:25"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"are you ok?","article":"self esteem"},"details":[{"message":"\"article\" length must be at least 50 characters long","path":["article"],"type":"string.min","context":{"limit":50,"value":"self esteem","label":"article","key":"article"}}]},"timestamp":"2021-04-09 23:03:25"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 23:03:25"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ok","article":"ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"},"details":[{"message":"\"title\" length must be at least 3 characters long","path":["title"],"type":"string.min","context":{"limit":3,"value":"ok","label":"title","key":"title"}}]},"timestamp":"2021-04-09 23:03:25"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 23:03:27"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:03:27"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 23:03:27"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:03:27"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:03:27"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:03:27"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 23:03:29"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 23:03:29"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:03:29"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:03:29"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 23:04:58"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:04:58"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 23:04:58"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:04:58"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:04:58"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 23:04:59"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:05:00"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 23:05:00"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:05:00"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:05:00"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 23:05:00"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 23:05:00"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"are you ok?","article":"self esteem"},"details":[{"message":"\"article\" length must be at least 50 characters long","path":["article"],"type":"string.min","context":{"limit":50,"value":"self esteem","label":"article","key":"article"}}]},"timestamp":"2021-04-09 23:05:00"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ok","article":"ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"},"details":[{"message":"\"title\" length must be at least 3 characters long","path":["title"],"type":"string.min","context":{"limit":3,"value":"ok","label":"title","key":"title"}}]},"timestamp":"2021-04-09 23:05:00"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 23:05:02"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:05:02"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 23:05:02"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 23:05:02"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"are you ok?","article":"self esteem"},"details":[{"message":"\"article\" length must be at least 50 characters long","path":["article"],"type":"string.min","context":{"limit":50,"value":"self esteem","label":"article","key":"article"}}]},"timestamp":"2021-04-09 23:05:02"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 23:05:02"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ok","article":"ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"},"details":[{"message":"\"title\" length must be at least 3 characters long","path":["title"],"type":"string.min","context":{"limit":3,"value":"ok","label":"title","key":"title"}}]},"timestamp":"2021-04-09 23:05:02"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 23:05:03"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 23:05:03"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:05:04"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:05:04"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 23:07:24"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:07:24"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 23:07:24"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:07:24"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:07:24"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 23:07:25"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:07:26"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 23:07:26"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:07:26"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:07:26"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 23:07:26"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 23:07:26"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"are you ok?","article":"self esteem"},"details":[{"message":"\"article\" length must be at least 50 characters long","path":["article"],"type":"string.min","context":{"limit":50,"value":"self esteem","label":"article","key":"article"}}]},"timestamp":"2021-04-09 23:07:26"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ok","article":"ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"},"details":[{"message":"\"title\" length must be at least 3 characters long","path":["title"],"type":"string.min","context":{"limit":3,"value":"ok","label":"title","key":"title"}}]},"timestamp":"2021-04-09 23:07:26"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 23:07:27"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:07:27"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 23:07:28"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 23:07:28"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"are you ok?","article":"self esteem"},"details":[{"message":"\"article\" length must be at least 50 characters long","path":["article"],"type":"string.min","context":{"limit":50,"value":"self esteem","label":"article","key":"article"}}]},"timestamp":"2021-04-09 23:07:28"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 23:07:28"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ok","article":"ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"},"details":[{"message":"\"title\" length must be at least 3 characters long","path":["title"],"type":"string.min","context":{"limit":3,"value":"ok","label":"title","key":"title"}}]},"timestamp":"2021-04-09 23:07:28"}
+{"message":"server is  running on port 3000... ","level":"info","service":"user-service","timestamp":"2021-04-09 23:07:29"}
+{"message":"Database is connected.","level":"info","service":"user-service","timestamp":"2021-04-09 23:07:29"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:07:30"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:07:30"}

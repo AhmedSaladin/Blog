@@ -6,7 +6,7 @@ exports.authorized = (req, res, next) => {
     try {
         const authorization = req.headers.authorization;
         if (!authorization) {
-            throw Error('No authorization header found.');
+            throw Error('No authorization header found');
         }
         const tokken = authorization.split(' ')[1];
         const user = jwt.verify(tokken, process.env.SECRET);

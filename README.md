@@ -62,9 +62,9 @@ After install requirments you need to preform these commands:
 # What is next?
 - [ ] Solve user profile picture problem.
 - [X] Adding unit test.
-- [ ] Preform Integration Test.
+- [X] Preform Integration Test.
 - [ ] Write some TDD.
-- [ ] Deploy code into cloud.
+- [ ] Deploy Application.
 - [ ] Design a proper frontend.  
 - [ ] Follow all [Node Best Practices Guide][NBP]
 - [ ] Redesign project architecture to follow [Clean Architecture Principles or DDD Design][CAN]
