@@ -581,3 +581,38 @@
 {"service":"user-service","level":"error","message":{"_original":{"title":"ok","article":"ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"},"details":[{"message":"\"title\" length must be at least 3 characters long","path":["title"],"type":"string.min","context":{"limit":3,"value":"ok","label":"title","key":"title"}}]},"timestamp":"2021-04-09 23:07:28"}
 {"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:07:30"}
 {"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:07:30"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:25:42"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:25:42"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:25:42"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:25:44"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:25:44"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:25:44"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 23:25:44"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 23:25:44"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"are you ok?","article":"self esteem"},"details":[{"message":"\"article\" length must be at least 50 characters long","path":["article"],"type":"string.min","context":{"limit":50,"value":"self esteem","label":"article","key":"article"}}]},"timestamp":"2021-04-09 23:25:44"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ok","article":"ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"},"details":[{"message":"\"title\" length must be at least 3 characters long","path":["title"],"type":"string.min","context":{"limit":3,"value":"ok","label":"title","key":"title"}}]},"timestamp":"2021-04-09 23:25:44"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:25:46"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:25:47"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:25:48"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 23:25:48"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 23:25:48"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"are you ok?","article":"self esteem"},"details":[{"message":"\"article\" length must be at least 50 characters long","path":["article"],"type":"string.min","context":{"limit":50,"value":"self esteem","label":"article","key":"article"}}]},"timestamp":"2021-04-09 23:25:48"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ok","article":"ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"},"details":[{"message":"\"title\" length must be at least 3 characters long","path":["title"],"type":"string.min","context":{"limit":3,"value":"ok","label":"title","key":"title"}}]},"timestamp":"2021-04-09 23:25:48"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:25:54"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:25:54"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:25:54"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:25:54"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:25:56"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:25:56"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:25:56"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 23:25:56"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 23:25:56"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"are you ok?","article":"self esteem"},"details":[{"message":"\"article\" length must be at least 50 characters long","path":["article"],"type":"string.min","context":{"limit":50,"value":"self esteem","label":"article","key":"article"}}]},"timestamp":"2021-04-09 23:25:56"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ok","article":"ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"},"details":[{"message":"\"title\" length must be at least 3 characters long","path":["title"],"type":"string.min","context":{"limit":3,"value":"ok","label":"title","key":"title"}}]},"timestamp":"2021-04-09 23:25:56"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:25:58"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:25:58"}
+{"service":"user-service","level":"error","message":{},"timestamp":"2021-04-09 23:25:59"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ddddddd"},"details":[{"message":"\"article\" is required","path":["article"],"type":"any.required","context":{"label":"article","key":"article"}}]},"timestamp":"2021-04-09 23:25:59"}
+{"service":"user-service","level":"error","message":{"_original":{"article":"cooo"},"details":[{"message":"\"title\" is required","path":["title"],"type":"any.required","context":{"label":"title","key":"title"}}]},"timestamp":"2021-04-09 23:25:59"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"are you ok?","article":"self esteem"},"details":[{"message":"\"article\" length must be at least 50 characters long","path":["article"],"type":"string.min","context":{"limit":50,"value":"self esteem","label":"article","key":"article"}}]},"timestamp":"2021-04-09 23:25:59"}
+{"service":"user-service","level":"error","message":{"_original":{"title":"ok","article":"ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"},"details":[{"message":"\"title\" length must be at least 3 characters long","path":["title"],"type":"string.min","context":{"limit":3,"value":"ok","label":"title","key":"title"}}]},"timestamp":"2021-04-09 23:25:59"}

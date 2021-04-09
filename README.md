@@ -19,6 +19,7 @@ This application follow REST architectural style and it can be used as backend f
 ├── app                   ---contain application logger configuration and application full routes.
 ├── config                ---contain database connection configuration.
 ├── controllers           ---contain all application logic. 
+├── coverage              ---contain code test coverage. 
 ├── db design             ---contain database design digram.  
 ├── logs                  ---contain logs files to recored all application faulties and informations.
 ├── middlewares           ---contain all middleware used in application.
