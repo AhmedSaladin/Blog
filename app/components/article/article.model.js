@@ -6,9 +6,11 @@ const new_blog_schema = Joi.object({
   author: Joi.number().required(),
   date: Joi.date().required(),
 });
+
 const update_blog_schema = new_blog_schema.keys({
   id: Joi.number().required().not(null),
 });
+
 module.exports = class Article {
   constructor(id = null, author, title, body, date) {
     this.id = id;
