@@ -1,4 +1,4 @@
-import Joi from "joi";
+const Joi = require("joi");
 
 const new_blog_schema = Joi.object({
   title: Joi.string().required().min(3),
@@ -7,31 +7,41 @@ const new_blog_schema = Joi.object({
   date: Joi.date().required(),
 });
 const update_blog_schema = new_blog_schema.keys({
-  id: Joi.number().required(),
+  id: Joi.number().required().not(null),
 });
-export default class Article {
-  constructor(id = null, title, body, author, date) {
+module.exports = class Article {
+  constructor(id = null, author, title, body, date) {
     this.id = id;
+    this.author = author;
     this.title = title;
     this.body = body;
-    this.author = author;
     this.date = date;
   }
+
   createArticle() {
-    return new_blog_schema.validate(
-      this.title,
-      this.body,
-      this.author,
-      this.date
-    );
+    const { error, value } = new_blog_schema.validate({
+      title: this.title,
+      body: this.body,
+      author: this.author,
+      date: this.date,
+    });
+    if (error) return this.validationError(error);
+    return value;
   }
+
   updateArticle() {
-    return update_blog_schema.validate(
-      this.id,
-      this.title,
-      this.body,
-      this.author,
-      this.date
-    );
+    const { error, value } = update_blog_schema.validate({
+      id: this.id,
+      title: this.title,
+      body: this.body,
+      author: this.author,
+      date: this.date,
+    });
+    if (error) return this.validationError(error);
+    return value;
   }
-}
+
+  validationError(error) {
+    return error.details[0].message;
+  }
+};
