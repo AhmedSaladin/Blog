@@ -1,33 +1,38 @@
-const winston = require('winston');
+import winston from "winston";
 
 const logger = winston.createLogger({
-    format: winston.format.combine(
-        winston.format.timestamp({
-            format: 'YYYY-MM-DD HH:mm:ss'
-        }),
-        winston.format.json()
-    ),
-    defaultMeta: { service: 'user-service' },
-    transports: [
-        new winston.transports.File({ filename: 'logs/error.log', level: 'error' }),
-        new winston.transports.File({ filename: 'logs/info.log', level: 'info' }),
-    ],
+  format: winston.format.combine(
+    winston.format.timestamp({
+      format: "YYYY-MM-DD HH:mm:ss",
+    }),
+    winston.format.json()
+  ),
+  defaultMeta: { service: "user-service" },
+  transports: [
+    new winston.transports.File({ filename: "logs/error.log", level: "error" }),
+    new winston.transports.File({ filename: "logs/info.log", level: "info" }),
+  ],
 });
 
 winston.exceptions.handle(
-    new winston.transports.File({ filename: 'logs/uncaughtException.log', handleExceptions: true })
-)
+  new winston.transports.File({
+    filename: "logs/uncaughtException.log",
+    handleExceptions: true,
+  })
+);
 
-process.on('unhandledRejection', err => {
-    throw err;
-})
+process.on("unhandledRejection", (err) => {
+  throw err;
+});
 
-if (process.env.NODE_ENV !== 'production') {
-    logger.add(new winston.transports.Console({
-        format: winston.format.combine(
-            winston.format.colorize(),
-            winston.format.simple()
-        ),
-    }));
+if (process.env.NODE_ENV !== "production") {
+  logger.add(
+    new winston.transports.Console({
+      format: winston.format.combine(
+        winston.format.colorize(),
+        winston.format.simple()
+      ),
+    })
+  );
 }
 module.exports = logger;
