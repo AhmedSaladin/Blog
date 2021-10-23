@@ -1,5 +1,5 @@
 const Article = require("./article.model");
-describe("Article class", () => {
+describe("Article class Tests", () => {
   it("Should return validation error for createArticle", () => {
     const article = new Article(
       null,

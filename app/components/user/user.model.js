@@ -78,5 +78,6 @@ module.exports = class User {
 
   validationError(error) {
     if (error !== undefined) return error.details[0].message;
+    return "Validation Error";
   }
 };
