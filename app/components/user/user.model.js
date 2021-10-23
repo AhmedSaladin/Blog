@@ -1,4 +1,5 @@
 const Joi = require("joi");
+const { hashing } = require("../../utility/password");
 
 const user_password_schema = Joi.object({
   password: Joi.string().required().min(8),
@@ -35,7 +36,7 @@ module.exports = class User {
     this.birth_day = birth_day;
   }
 
-  createUser() {
+  async createUser() {
     const { error, value } = new_user_schema.validate({
       first_name: this.first_name,
       last_name: this.last_name,
@@ -45,6 +46,7 @@ module.exports = class User {
       birth_day: this.birth_day,
     });
     if (error) return this.validationError();
+    value.password = await this.hashingPassword(value.password);
     return value;
   }
 
@@ -56,19 +58,25 @@ module.exports = class User {
       email: this.email,
       avatar: this.avatar,
       birth_day: this.birth_day,
+      password: this.password,
     });
     if (error) return this.validationError();
     return value;
   }
 
-  updatePassword(password) {
-    this.password = password;
-    const { error, value } = user_password_schema({ password: this.password });
-    if (error) this.validationError();
-    return value;
+  async updatePassword(password) {
+    const { error, value } = user_password_schema.validate({ password });
+    if (error) return this.validationError();
+    const hashedPassword = await this.hashingPassword(value.password);
+    this.password = hashedPassword;
+    return hashedPassword;
+  }
+
+  async hashingPassword(password) {
+    return await hashing(password);
   }
 
   validationError(error) {
-    return error.details[0].message;
+    if (error !== undefined) return error.details[0].message;
   }
 };
