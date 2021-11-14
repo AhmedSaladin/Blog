@@ -1,20 +1,21 @@
-# BLOG
-This application follow REST architectural style and it can be used as backend for any blog design by following [API Document](#API_Document) all APIs tested and work great please,  follow instructions from [Environment Variables](#Environment_Variables) then follow [Usage](#Usage) instructions to run project without any problems.
-# Table of Content
+# Project overview
+This blog application was created to practice new tools and techniques.
+
+# Table of content
   - [Summary](#BLOG)
   - [Table Of Content](#Table_of_content)
   - [Database Design](#Database_design)
-  - [Project Architectural](#Project_architecture)
+  - [Project folders structure](#Project_folders_structure)
   - [Environment Variables ](#Environment_variables )
   - [Usage](#Usage)
-  - [What is Next?](#What_is_next?)
+  - [Project goals](#Project_goals)
   - [API Documentation](#API_Document)
   - [Project Reference](#Reference)
 # Database Design
 
   <img  src='./db design/blog database.png'  alt='database digram'  width='600' height='600' >
   
-# Project Architecture
+# Project folders structure
 ```
 ├── app                   ---contain application logger configuration and application full routes.
 ├── config                ---contain database connection configuration.
@@ -29,24 +30,21 @@ This application follow REST architectural style and it can be used as backend f
 └── utility               ---contain all helper functions used in application.
 ```
 # Environment Variables
-  This section is about environment varibales needed to run this project out without any issues and enviroment variables splite into three section database section and token section and application section.
+All environment variables are needed to run this project.
   - Token:
-    - `SECRET` and this varibale responsible about JWT secret configure to decode and encode payload data into token. 
+    - `SECRET` this variable responsible for JWT secret configure to decode and encode payload data into a token. 
     
-  - Database: For database this project use `sequelize` ORM to connect to database and handle all database operation database used for this project is `mysql`.
+  - Database: this project use `sequelize` ORM to connect to the database and handle all database operation database used for this project is `MySQL`.
     - `USER_NAME` for database username.
     - `PASSWORD` for database username password.
     - `DATABASE_NAME` for database name.
     - `HOST` for database hostname.
     - `DATABASE_TYPE` for database connection type.
   - Application:
-    - `PORT` this variable is for setting up port number to let server run if is not defined then the server by default listen on port 3000.
-    -  `NODE_ENV` this variable is for server know where it run if it run in `production` the server logger will disabled from console and stored into files else logs show in console to trace actions in application.  
-  
-  This project will not run without these variables because this variable contain database connection and setup and encryption secret for authorization header.
-  
-  To run this project without any problem I recommend to create ```.env``` file in project home directory and list these varibles in it. 
-     
+    - `PORT` this variable setting up the port number to let the server listen, if it is not defined then the server by default listens on port 3000.
+    -  `NODE_ENV` this variable is for the environment identity to let the application know what environment runs it, if it runs in `production` the server logger will be              disabled from the console and stored into files else logs show in the console to trace actions in the application.
+ I recommend creating a `.env` file in the project home directory and listing these variables in it.
+ 
 # Usage
 This section depend on ["environment variables section"](#Environment_variables) if you don't setup your [enviroment varible](#Environment_variables) or read "environment variables section" please, [check it out](#Environment_variables) to run project without any issues.
 
@@ -60,22 +58,28 @@ After install requirments you need to preform these commands:
 - `npm start` for run project with node and it for prodution configuration.
 - `npm test` run all application tests with jest. 
 
-# What is next?
-- [ ] Solve user profile picture problem.
-- [X] Adding unit test.
-- [X] Preform Integration Test.
-- [ ] Write some TDD.
-- [ ] Deploy Application.
-- [ ] Design a proper frontend.  
-- [ ] Follow all [Node Best Practices Guide][NBP]
-- [ ] Redesign project architecture to follow [Clean Architecture Principles or DDD Design][CAN]
+# Project Goals
+
+- Follow [Node Best Practices Guide][NBP]
+- Learning PostgreSQL
+- Learn TDD
+- Work with WebSocket
+- Work with email service and Worker threads
+- Logging and error handling best practice 
+- Build frontend using react
+- Work with git actions
+- Practice docker    
+
 # API Document
+
 This Section is for APIs documentation for each route under this project and contain each request and response and failure response if something went wronge or request missing some data and it hosted and tested via [Postman][PM].
   - [Full Docs](https://documenter.getpostman.com/view/6747699/TzCQbmrE)
   - [Articles Docs](https://documenter.getpostman.com/view/6747699/TzCQbmrE#c56d0510-0d54-45c1-882a-26aebef33869)
   - [User Docs](https://documenter.getpostman.com/view/6747699/TzCQbmrE#0137d7db-e919-4f5a-97d6-efb2e1f8332c)
   - [SavedList Docs](https://documenter.getpostman.com/view/6747699/TzCQbmrE#bdab63e2-77a7-4d82-8315-3e7a7c00b8fb)
-# Reference 
+  
+# Reference
+
 This Section is for books or articles I have been reading or try to follow when I develop and design this project.
 - [Node Best Practices ][NBP]
 - [Clean Architecture in Node.js][CAN]
